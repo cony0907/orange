@@ -8,8 +8,8 @@ const firebaseConfig = {
   projectId: "babylion-a387d",
   storageBucket: "babylion-a387d.appspot.com",
   messagingSenderId: "1052449483871",
-  appId: "1:1052449483871:web:80e4068de5f9b49f6b7fea",
-  measurementId: `${process.env.REACT_APP_FIREBASE_ID}`,
+  appId: `${process.env.REACT_APP_FIREBASE_ID}`,
+  measurementId: "G-KC0Z2MYFSY",
 };
 
 // firebaseConfig 정보로 firebase 시작

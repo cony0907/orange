@@ -1,14 +1,13 @@
 import GlobalStyle from "./GlobalStyle";
-import styled from "styled-components";
+import Data from "@components/Data";
 
 function App() {
   return (
     <>
       <GlobalStyle />
+      <Data />
     </>
   );
 }
 
 export default App;
-
-
